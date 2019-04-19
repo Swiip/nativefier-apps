@@ -1,0 +1,18 @@
+{
+  "name": "nativefier-apps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "gmail-swiip": "./gmail-swiip.sh",
+    "gmail-zenika": "./gmail-zenika.sh",
+    "google-calendar": "./google-calendar.sh",
+    "google-keep": "./google-keep.sh",
+    "google-music": "./google-music.sh",
+    "trello": "./trello.sh",
+    "twitter": "./twitter.sh"
+  },
+  "dependencies": {
+    "nativefier": "^7.6.12"
+  }
+}
