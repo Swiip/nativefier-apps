@@ -4,15 +4,11 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "gmail-swiip": "./gmail-swiip.sh",
-    "gmail-zenika": "./gmail-zenika.sh",
-    "google-calendar": "./google-calendar.sh",
     "google-keep": "./google-keep.sh",
-    "google-music": "./google-music.sh",
-    "trello": "./trello.sh",
-    "twitter": "./twitter.sh"
+    "proton-perso": "./proton-perso.sh",
+    "proton-proton": "./proton-proton.sh"
   },
   "dependencies": {
-    "nativefier": "^7.6.12"
+    "nativefier": "^52.0.0"
   }
 }
